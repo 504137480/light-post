@@ -6,10 +6,10 @@
 
 # Setup
 
-title:          "rickgray.me"
+title:          "小周周:-)"
 tagline:        "Quiet And Powerful"
 description:    "Something Specail"
-url:            "http://rickgray.me"
+url:            "https://dazhouzhou.github.io/"
 baseurl:        ""
 paginate:       18  
 paginate_path:  "/page:num"
@@ -24,7 +24,7 @@ friends:
       desc: "Description"
 
 author:
-    name: "RickGray"
+    name: "小周周"
     url: "set plz"
     email: "set plz"
     weibo: "set plz"
