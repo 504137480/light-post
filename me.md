@@ -1,6 +1,6 @@
 ---
 title: About me
-layout: post
+layout: post2
 comments: no
 ---
 
