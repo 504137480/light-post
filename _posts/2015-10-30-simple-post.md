@@ -6,19 +6,6 @@ url: https://www.baidu.com
 comment: false
 ---
 
-This's a demo post for light-post theme.
+https://www.baidu.com
 
-### 1. Content
-
-Hello My Frieds!
-
-### 2. Blockquote
-
-> This is a blockquote content.
-
-
-### 3. Code
-
-    import os
-    os.stdout.write('hello my friends!')
 
