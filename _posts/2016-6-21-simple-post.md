@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [CVE-2016-4525] Advantech WebAccess ActiveX 远程代码执行漏洞
-zz: https://ics-cert.us-cert.gov/advisories/ICSA-16-173-01
+title: This is a demo post
 tags: [demo, jekyll, theme]
+zz: https://www.baidu.com
 comment: false
 ---
