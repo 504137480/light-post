@@ -14,7 +14,9 @@ comments: no
 
 ### 联系方式：        
 
-个人邮箱: [504137480@qq.com](mailto:504137480@qq.com)     
+个人邮箱: [504137480@qq.com](mailto:504137480@qq.com)   
+github: https://github.com/dazhouzhou      
+exploit db: https://www.exploit-db.com/author/?a=8580   
 
 ----
 
