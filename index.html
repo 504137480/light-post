@@ -8,7 +8,7 @@ title: "Home"
     <div class="lp-archives-list">
       <ul>
         {% for post in paginator.posts reverse %}
-        {% if post.layout == "post" %}
+        {% if post.layout == "post" and post.t == "a"%}
         <li>
           <h3>
             <span>{{ post.date | date: "%Y-%m-%d" }}</span>
